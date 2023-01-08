@@ -87,6 +87,29 @@ main{
     margin:0px 80px;
     height: 200px;
 }
+/* start guardiant */
+.banner-area{
+    height: 300px;
+    margin:20px 120px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./images/watch.png);
+    background-size: cover;
+    background-position: center;
+}
+.content-area{
+    height: 100px;
+    display: flex;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+
+.btn{
+    color:#F15B22;
+    background-color: #FFFFFF;
+    padding:10px;
+    border-radius: 5px;
+    outline: none;
+}
+
 /* start footer */
 footer{
     display: flex;
