@@ -62,6 +62,7 @@ main{
     margin:0px 80px;
     height: 200px;
 }
+/* start footer */
 footer{
     display: flex;
     gap: 300px;
@@ -72,8 +73,32 @@ footer{
     margin:20px 10px;
     color:white
 }
+.footer-right-title{
+    margin-bottom: 20px;
+}
+.footer-right-dec{
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+
+}
 .footer-right{
     margin-top: 80px;
     margin-right: 150px;
     color: white;
+}
+.footer-title{
+     margin-bottom: 10px;
+}
+.footer-input{
+    margin-bottom: 10px;
+
+}
+.footer-btn{
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    background: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
 }
