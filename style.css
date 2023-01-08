@@ -27,7 +27,27 @@ header{
     background-color: #ff3300;
     border-radius:5px;
     padding:5px;
-    
-    
+}
+/* start main */
+main{
+    display: flex;
+    gap:20px;
+}
+.main-right{
+    margin-top:200px;
+}
+.main-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
 
+}
+.p-dic{
+    margin: 20px 0px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.img-dec{
+    display: flex;
+    gap: 200px;
 }
