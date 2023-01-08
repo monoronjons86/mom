@@ -62,3 +62,18 @@ main{
     margin:0px 80px;
     height: 200px;
 }
+footer{
+    display: flex;
+    gap: 300px;
+    margin:0px 85px;
+    background-color: black;
+}
+.footer-left{
+    margin:20px 10px;
+    color:white
+}
+.footer-right{
+    margin-top: 80px;
+    margin-right: 150px;
+    color: white;
+}
