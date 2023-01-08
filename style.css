@@ -47,7 +47,18 @@ main{
     font-weight: 400;
     font-size: 16px;
 }
+/* plans start */
+.plans-tittle{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 40px;
+    color: #151414;
+}
+
 .img-dec{
     display: flex;
-    gap: 200px;
+    gap: 150px;
+    margin:0px 80px;
+    height: 200px;
 }
